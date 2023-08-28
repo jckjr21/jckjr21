@@ -18,6 +18,6 @@
 
 [twitter]: https://twitter.com
 [instagram]: https://www.instagram.com
-[linkedin]: www.linkedin.com/in/jermarious-kirk
+[linkedin]: https://linkedin.com/in/Josh
 
 

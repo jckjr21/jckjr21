@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com
 [instagram]: https://www.instagram.com
-[linkedin]: https://linkedin.com/in/jermarious-kirkendoll-b73a98285
+[linkedin]: www.linkedin.com/in/jermarious-kirkendoll-b73a98285

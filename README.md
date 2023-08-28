@@ -18,6 +18,6 @@
 
 [twitter]: https://twitter.com
 [instagram]: https://www.instagram.com
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/Jermarious
 
 
